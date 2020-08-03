@@ -1,23 +1,24 @@
 # Translation Status Report
 ## Overview
-| Language | Done% | Updates Needed |
+| Language | Done % | Updates Needed |
 | -------- | -----: | -------------: |
-| [bg-BG] (# bg-BG) | 0% | ✔ 0 |
-| [de-DE] (# de-DE) | 0% | ✔ 0 |
-| [es-ES] (# es-ES) | 0% | ✔ 0 |
-| [es-MX] (# es-MX) | ✔ 100% | ✔ 0 |
-| [fi-FI] (# fi-FI) | 0% | ✔ 0 |
-| [fr-FR] (# fr-FR) | 86% | ✔ 0 |
-| [it-IT] (# it-IT) | 86% | ✔ 0 |
-| [ja-JP] (# ja-JP) | 57% | ✔ 0 |
-| [ko-KR] (# ko-KR) | 0% | ✔ 0 |
-| [mt-MT] (# mt-MT) | 0% | ✔ 0 |
-| [nl-NL] (# nl-NL) | 0% | ✔ 0 |
-| [pt-PT] (# pt-PT) | 0% | ✔ 0 |
-| [ru-RU] (# ru-RU) | 0% | ✔ 0 |
-| [sk-SK] (# sk-SK) | 0% | ✔ 0 |
-| [sv-SE] (# sv-SE) | 0% | ✔ 0 |
-| [zh-CN] (# zh-CN) | ✔ 100% | 1 |
+| [bg-BG](#bg-BG) | 0% | ✔ 0 |
+| [de-DE](#de-DE) | 0% | ✔ 0 |
+| [es-ES](#es-ES) | 0% | ✔ 0 |
+| [es-MX](#es-MX) | ✔ 100% | ✔ 0 |
+| [fi-FI](#fi-FI) | 0% | ✔ 0 |
+| [fr-FR](#fr-FR) | ✔ 100% | ✔ 0 |
+| [it-IT](#it-IT) | ✔ 100% | ✔ 0 |
+| [ja-JP](#ja-JP) | ✔ 100% | ✔ 0 |
+| [ko-KR](#ko-KR) | 0% | ✔ 0 |
+| [mt-MT](#mt-MT) | 0% | ✔ 0 |
+| [nl-NL](#nl-NL) | ✔ 100% | ✔ 0 |
+| [pl-PL](#pl-PL) | ✔ 100% | ✔ 0 |
+| [pt-PT](#pt-PT) | 0% | ✔ 0 |
+| [ru-RU](#ru-RU) | 0% | ✔ 0 |
+| [sk-SK](#sk-SK) | 0% | ✔ 0 |
+| [sv-SE](#sv-SE) | 0% | ✔ 0 |
+| [zh-CN](#zh-CN) | ✔ 100% | 1 |
 ## Details
 ### bg-BG
 | File | Target-Language | Source-Version | Error |
@@ -30,7 +31,7 @@
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### de-DE
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
@@ -42,7 +43,7 @@
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### es-ES
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
@@ -54,7 +55,7 @@
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### es-MX
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
@@ -66,7 +67,7 @@
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### fi-FI
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
@@ -78,43 +79,43 @@
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### fr-FR
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
-| covid-19.po | ? | ? | missing |
+| covid-19.po | ✔ | ✔ | - |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### it-IT
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
-| covid-19.po | ? | ? | missing |
+| covid-19.po | ✔ | ✔ | - |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### ja-JP
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
-| covid-19.po | ? | ? | missing |
+| covid-19.po | ✔ | ✔ | - |
 | diseases.po | ✔ | ✔ | - |
-| faq.po | ? | ? | missing |
+| faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
-| statistics.po | ? | ? | missing |
+| statistics.po | ✔ | ✔ | - |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### ko-KR
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
@@ -126,7 +127,7 @@
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### mt-MT
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
@@ -138,19 +139,31 @@
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### nl-NL
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
-| about.po | ? | ? | missing |
-| covid-19.po | ? | ? | missing |
-| diseases.po | ? | ? | missing |
-| faq.po | ? | ? | missing |
-| home.po | ? | ? | missing |
-| start-folding.po | ? | ? | missing |
-| statistics.po | ? | ? | missing |
+| about.po | ✔ | ✔ | - |
+| covid-19.po | ✔ | ✔ | - |
+| diseases.po | ✔ | ✔ | - |
+| faq.po | ✔ | ✔ | - |
+| home.po | ✔ | ✔ | - |
+| start-folding.po | ✔ | ✔ | - |
+| statistics.po | ✔ | ✔ | - |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
+### pl-PL
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ✔ | ✔ | - |
+| covid-19.po | ✔ | ✔ | - |
+| diseases.po | ✔ | ✔ | - |
+| faq.po | ✔ | ✔ | - |
+| home.po | ✔ | ✔ | - |
+| start-folding.po | ✔ | ✔ | - |
+| statistics.po | ✔ | ✔ | - |
+
+[↑ Back to the overview](#overview)
 ### pt-PT
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
@@ -162,7 +175,7 @@
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### ru-RU
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
@@ -174,7 +187,7 @@
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### sk-SK
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
@@ -186,7 +199,7 @@
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### sv-SE
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
@@ -198,7 +211,7 @@
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
 ### zh-CN
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
@@ -210,4 +223,4 @@
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 
-[↑ Back to the overview] (# overview)
+[↑ Back to the overview](#overview)
